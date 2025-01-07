@@ -1,0 +1,22 @@
+{
+    "idSave": 9,
+    "isFirstSession": false,
+    "language": "en",
+    "promptDone": false,
+    "money": 1,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "clearedLevels": 15,
+    "unlockedByAdCars": [
+        false,
+        true,
+        true
+    ],
+    "isSoundEnabled": true,
+    "isMusicEnabled": true,
+    "isFirstHelpShowen": true
+}

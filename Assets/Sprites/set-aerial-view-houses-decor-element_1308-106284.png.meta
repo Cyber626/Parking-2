@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 1ff151600dd18084fbb3fb95edad5d9d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 463
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa750014ac9df6f489d213fdfdeabe18
+      internalID: -1839286961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 453
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6247305e15bf36a4b9515dd8669d2c3c
+      internalID: -1389991442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 459
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eae06925a837342bfff6ddee8ccfbf
+      internalID: -1371421484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 358
+        width: 51
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfff6b5f2f25e5b4bb894a5e24ed326a
+      internalID: 1973043259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 455
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510cd0650af7f0847b74d872deeef382
+      internalID: 1863866671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 375
+        width: 78
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f60341ddef2da41be6eda87953ccb7
+      internalID: -709878232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 407
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2219cec82a117dd408be1ebfdfbaf362
+      internalID: 301480101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 366
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553c842bacce7b647a836fba86e50a05
+      internalID: -346332304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 332
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ffec6ea0dc25248aadfac21d64d157
+      internalID: -1279158986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 271
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22159cbb82861c439f8c14ad4de4dd5
+      internalID: 1436497106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 213
+        width: 56
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ca007e83b2bc441a4041a5abdaf0ee
+      internalID: -2038779765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 272
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888c2ef3a026be74b945ecfd8c9f2120
+      internalID: -1353494747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 288
+        width: 71
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b7ee47e43730448a1064cbb9f1a149
+      internalID: 965746293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 289
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecfaa46bf298e14e8001487e728d309
+      internalID: 188687409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_14
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 270
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb7b45259f9b14a906b37bcaaa270b
+      internalID: -1940925257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 213
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3362b7c987eb7134f9776971638e062c
+      internalID: 364486586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 220
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e1634a6f707194dbe16e3c3283ba65
+      internalID: 737483507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 204
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ed4db12a789ec448f6ebb6dace0dac
+      internalID: 924036526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 197
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc107fb56ae19c24fbb65548daf19ee3
+      internalID: -1599103025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_19
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 204
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f231521c14175c47b25afe0c84ec501
+      internalID: 844421268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 124
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba10cf5c9e45834a9ae81c34c3d40a9
+      internalID: -1321660203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 124
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838cd329e24159642a3e52babd7b8571
+      internalID: -1492068617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_22
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 125
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c24af7f24bd4724080ad31276ff3e02
+      internalID: -2027689419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 124
+        width: 85
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9dc994bcf38fa43b338f00b8bf7a1c
+      internalID: 1975911063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: set-aerial-view-houses-decor-element_1308-106284_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 31
+        width: 79
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1369c40c7a0a1104eb6ac4b906164cd5
+      internalID: 1309676380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      set-aerial-view-houses-decor-element_1308-106284_0: -1839286961
+      set-aerial-view-houses-decor-element_1308-106284_1: -1389991442
+      set-aerial-view-houses-decor-element_1308-106284_10: -2038779765
+      set-aerial-view-houses-decor-element_1308-106284_11: -1353494747
+      set-aerial-view-houses-decor-element_1308-106284_12: 965746293
+      set-aerial-view-houses-decor-element_1308-106284_13: 188687409
+      set-aerial-view-houses-decor-element_1308-106284_14: -1940925257
+      set-aerial-view-houses-decor-element_1308-106284_15: 364486586
+      set-aerial-view-houses-decor-element_1308-106284_16: 737483507
+      set-aerial-view-houses-decor-element_1308-106284_17: 924036526
+      set-aerial-view-houses-decor-element_1308-106284_18: -1599103025
+      set-aerial-view-houses-decor-element_1308-106284_19: 844421268
+      set-aerial-view-houses-decor-element_1308-106284_2: -1371421484
+      set-aerial-view-houses-decor-element_1308-106284_20: -1321660203
+      set-aerial-view-houses-decor-element_1308-106284_21: -1492068617
+      set-aerial-view-houses-decor-element_1308-106284_22: -2027689419
+      set-aerial-view-houses-decor-element_1308-106284_23: 1975911063
+      set-aerial-view-houses-decor-element_1308-106284_24: 1309676380
+      set-aerial-view-houses-decor-element_1308-106284_3: 1973043259
+      set-aerial-view-houses-decor-element_1308-106284_4: 1863866671
+      set-aerial-view-houses-decor-element_1308-106284_5: -709878232
+      set-aerial-view-houses-decor-element_1308-106284_6: 301480101
+      set-aerial-view-houses-decor-element_1308-106284_7: -346332304
+      set-aerial-view-houses-decor-element_1308-106284_8: -1279158986
+      set-aerial-view-houses-decor-element_1308-106284_9: 1436497106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
